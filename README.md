@@ -48,6 +48,7 @@ This dashboard offers a comprehensive view of AI adoption, revenue influence, jo
 ```
 📦 Global-AI-Economic-Impact/
 ├── GlobalAIImpactDashboard.pbix       # Power BI project file
+├── Global_AI_Content_Impact_Dataset   # Dataset
 ├── Dashboard.png                      # Dashboard preview screenshot
 └── README.md                          # Project documentation
 ```
@@ -58,7 +59,7 @@ This dashboard offers a comprehensive view of AI adoption, revenue influence, jo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Global-AI-Economic-Impact.git
+   git clone https://github.com/jagdish283/Global-AI-Economic-Impact.git
    ```
 
 2. Open the `.pbix` file using Power BI Desktop.
