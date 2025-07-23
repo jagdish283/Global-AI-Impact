@@ -13,35 +13,36 @@ This dashboard offers a comprehensive view of AI adoption, revenue influence, jo
 
 ## 🚀 Key Insights Delivered
 
-- 🤖 **AI Adoption %**: 53.76% average across nations
-- 💰 **Avg Revenue %**: 36.74% growth linked to AI integration
-- 💼 **Avg Job Loss %**: 26.86% reflecting AI-driven disruption
-- 🤝 **Human Collaboration %**: 50.95% in assisted workflows
-- 🌍 **Geographic Mapping**: AI activity visualized globally
-- 📈 **AI Adoption vs Revenue Trends**: Multi-year comparison
-- 🛠 **Top AI Tools in 2024**: Midjourney, Claude, Synthesia, DALL·E, and more
+- 🤖 **AI Adoption %**: 53.76% average across nations  
+- 💰 **Avg Revenue %**: 36.74% growth linked to AI integration  
+- 💼 **Avg Job Loss %**: 26.86% reflecting AI-driven disruption  
+- 🤝 **Human Collaboration %**: 50.95% in assisted workflows  
+- 🌍 **Geographic Mapping**: AI activity visualized globally  
+- 📈 **AI Adoption vs Revenue Trends**: Multi-year comparison  
+- 🛠 **Top AI Tools in 2024**: Midjourney, Claude, Synthesia, DALL·E, and more  
 - 📉 **Country-wise Job Loss Trend**: Visualized across UK, Japan, India, and others
 
 ---
 
 ## 💼 Business Value
 
-- Enables **strategic planning** for AI integration
-- Identifies **high-risk areas for job loss**
-- Reveals **market trends for AI tools**
+- Enables **strategic planning** for AI integration  
+- Identifies **high-risk areas for job loss**  
+- Reveals **market trends for AI tools**  
 - Assists in **policy development** and **workforce alignment**
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop**
-- **Power Query & DAX**
-- **Microsoft Bing Maps**
-- **Interactive Slicers & Tree Maps**
+- **Power BI Desktop**  
+- **Power Query & DAX**  
+- **Microsoft Bing Maps**  
+- **Interactive Slicers & Tree Maps**  
 - **Year-wise Trend Analysis**
 
 ---
+
 
 ## 📁 Repository Structure
 
